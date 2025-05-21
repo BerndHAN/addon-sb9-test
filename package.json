@@ -7,7 +7,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BerndHAN/addon-sb9-test"
+    "url": "git+https://github.com/BerndHAN/addon-sb9-test.git"
   },
   "type": "module",
   "license": "MIT",
